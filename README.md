@@ -1,6 +1,6 @@
 # API Banco Digital 💸
 
-![img-banco](https://github.com/GleicyS/api-banco-digital/assets/69402359/e9672ad2-84d8-4687-b74f-a56a6535543c)
+![img-banco](./src/dados/img-banco.jpeg)
 <br/>
 
 ## Sobre o projeto
