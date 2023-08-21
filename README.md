@@ -90,3 +90,10 @@ Neste projeto, diferentes tecnologias são empregadas para fornecer uma soluçã
 
 - Cada uma dessas tecnologias desempenha um papel fundamental na construção e no funcionamento do projeto, contribuindo para uma experiência de usuário fluida e para a eficiência do sistema como um todo.
 
+## Status do projeto
+
+✅ Concluído
+
+<br/>
+
+##### Feito por mim, Gleicy 👩🏻‍💻
