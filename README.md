@@ -1,11 +1,15 @@
 # API Banco Digital 💸
 
 ![img-banco](https://github.com/GleicyS/api-banco-digital/assets/69402359/e9672ad2-84d8-4687-b74f-a56a6535543c)
+<br/>
 
 ## Sobre o projeto
 
 Bem-vindo ao repositório da API de um Banco Digital! Este projeto consiste em uma API RESTful desenvolvida para gerenciar operações bancárias básicas, proporcionando a criação, atualização e consulta de contas bancárias, além de permitir depósitos, saques, transferências e emissão de extratos.
 Foi feita para o desafio do segundo módulo do curso da Cubos Academy, com foco no desenvolvimento back-end.
+<br/>
+
+
 
 ## Funcionalidades Principais ✍🏻
 #### A API oferece as seguintes funcionalidades:
@@ -28,14 +32,42 @@ Foi feita para o desafio do segundo módulo do curso da Cubos Academy, com foco 
 8 - Consultar saldo: Obtenha o saldo atual de uma conta bancária específica.
 
 9 - Emitir extrato bancário: Receba um extrato detalhado das transações de uma conta bancária.
+<br/>
+
+
+## Como Executar o Código e Testar as Requisições usando Insomnia 🔄
+Siga estas etapas para executar o código deste projeto em sua máquina local e testar as requisições utilizando o Insomnia:
+
+1 - Clone o Repositório: Abra o terminal e execute o seguinte comando para clonar o repositório em sua máquina:
+
+-  git clone https://github.com/seu-usuario/banco-digital-api.git
+cd banco-digital-api  //exemplo
+
+2 - Instale as Dependências: No diretório do projeto, instale as dependências necessárias utilizando o seguinte comando:
+
+-  npm install  
+
+3 - Baixe e Instale o Insomnia: Se você ainda não possui o Insomnia, baixe e instale-o a partir do site oficial: Insomnia.
+
+- Abra o Insomnia: Abra o Insomnia em seu computador.
+
+- Importe a Coleção de Requisições: No Insomnia, importe a coleção de requisições que pode ser disponibilizada junto com o projeto. Essa coleção contém as requisições de exemplo para cada funcionalidade da API.
+
+
+<br/>
+
 
 ## Tecnologias Utilizadas 🤔
 
-✅ JavaScript 
-✅ Node.Js 
-✅ Express 
-✅ Nodemon 
-✅ NPM 
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img  alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img  alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+   <img  alt="nodemon" src="https://img.shields.io/badge/Nodemon-404D59?style=for-the-badge"/>
+   <img  alt="NPM" src="https://img.shields.io/badge/NPM-404D59?style=for-the-badge"/>
+
+<br/>
+<br/>
+
 
 ### Um pouco sobre o que cada tecnologia faz nesse projeto 👀
 Neste projeto, diferentes tecnologias são empregadas para fornecer uma solução completa e funcional para o gerenciamento de operações bancárias. Aqui está uma breve explicação sobre o papel de cada tecnologia:
