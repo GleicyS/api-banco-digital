@@ -1,6 +1,7 @@
+# API Banco Digital
+
 ![img-banco](https://github.com/GleicyS/api-banco-digital/assets/69402359/e9672ad2-84d8-4687-b74f-a56a6535543c)
 
-# API Banco Digital
 
 Bem-vindo ao repositório da API de um Banco Digital! Este projeto consiste em uma API RESTful desenvolvida para gerenciar operações bancárias básicas, proporcionando a criação, atualização e consulta de contas bancárias, além de permitir depósitos, saques, transferências e emissão de extratos.
 Foi feita para o desafio do segundo módulo do curso da Cubos Academy, com foco no desenvolvimento back-end.
