@@ -5,7 +5,7 @@ const tipoSacar = async (req, res) => {
     const { numero_conta, senha, valor } = req.body;
 
     if (!numero_conta || !senha || !valor) {
-        return res.status(400).json({ mensagem: "Número da conta, valor do saque e senha são obrigatórios!" })
+        return res.status(400).json({ mensagem: "Obrigatorio preencher todos os campos!" })
     }
 
     const contaEncontrada = encontrarContaPeloNumero(numero_conta)

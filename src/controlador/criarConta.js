@@ -52,7 +52,7 @@ const criarConta = (req, res) => {
 
     contas.push(novaConta);
     numeroConta++;
-    res.status(200).json(novaConta);
+    res.status(200).json({ mensagem: "Conta criada!" });
 };
 
 
