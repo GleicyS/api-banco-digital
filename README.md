@@ -51,11 +51,15 @@ cd banco-digital-api  //exemplo
 
 - Abra o Insomnia: Abra o Insomnia em seu computador.
 
-- Importe a Coleção de Requisições: No Insomnia, importe a coleção de requisições que pode ser disponibilizada junto com o projeto. Essa coleção contém as requisições de exemplo para cada funcionalidade da API.
+- Importe a Coleção de Requisições: No Insomnia, importe a coleção de requisições que esta disponível junto do projeto. Essa coleção contém as requisições de exemplo para cada funcionalidade da API.
 
+4 - Teste as Requisições: Utilize as requisições da coleção importada para testar cada funcionalidade da API. 
+
+5 - Ficando assim o Insomnia
+
+![](./src/dados/insomnia-print.png)
 
 <br/>
-
 
 ## Tecnologias Utilizadas 🤔
 
