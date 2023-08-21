@@ -71,7 +71,7 @@ cd banco-digital-api  //exemplo
 <br/>
 
 
-### Um pouco sobre o que cada tecnologia faz nesse projeto 👀
+## Um pouco sobre o que cada tecnologia faz nesse projeto 👀
 Neste projeto, diferentes tecnologias são empregadas para fornecer uma solução completa e funcional para o gerenciamento de operações bancárias. Aqui está uma breve explicação sobre o papel de cada tecnologia:
 
 - JavaScript: Como a linguagem de programação principal, o JavaScript permite a criação de lógica de negócios, controle de fluxo e interações em todo o código do projeto.
